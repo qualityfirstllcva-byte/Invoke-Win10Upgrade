@@ -1,3 +1,4 @@
+﻿
 #requires -Version 4
 #requires -RunAsAdministrator
 function Invoke-Windows10Upgrade {
